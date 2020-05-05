@@ -1,0 +1,3 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Requirement already satisfied: django-crispy-forms in c:\codes\mxshop\venv\lib\site-packages (1.9.0)
+Could not build wheels for django-crispy-forms, since package 'wheel' is not installed.
