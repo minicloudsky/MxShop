@@ -9,7 +9,7 @@ django-reversion==3.0.7
 DjangoUeditor==1.8.143
 et-xmlfile==1.0.1
 future==0.18.2
-httplib2==0.17.3
+httplib2==0.19.0
 jdcal==1.4.1
 MarkupPy==1.14
 mysqlclient @ file:///C:/codes/MxShop/mysqlclient-1.4.6-cp36-cp36m-win32.whl
